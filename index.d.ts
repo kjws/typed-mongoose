@@ -1,4 +1,5 @@
-import * as Promise from 'mpromise';
+// import * as Promise from 'mpromise';
+import { Promise } from 'q';
 
 export {Promise};
 
